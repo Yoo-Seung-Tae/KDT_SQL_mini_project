@@ -1,0 +1,1 @@
+# KDT_SQL_mini_project
